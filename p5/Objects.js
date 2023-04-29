@@ -881,5 +881,5 @@ function finalscene() {
 }
 function restart() {
     localStorage.clear()
-    location.href = "START.html"
+    location.href = "Index.html"
 }
